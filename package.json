@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "hernandsv01",
 	"description": "Just a normal project",
+	"version": "1.2.0",
 	"keywords": ["freecodecamp", "practice"],
 	"license": "MIT",
 	"dependencies": {
