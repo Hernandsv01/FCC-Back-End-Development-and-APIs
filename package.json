@@ -3,6 +3,7 @@
 	"author": "hernandsv01",
 	"description": "Just a normal project",
 	"keywords": ["freecodecamp", "practice"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
